@@ -1,2 +1,1 @@
-# Corona_Spy
-Requires Bluetooth and GPS permissions
+# Covid-19 Hunter
